@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+.env
+/docker/php/logs
+/docker/nginx/logs
+/docker/mysql/logs
+/logs/*
+/src/ddl/ini_set
+/src/public/images/junkissa/*
+/src/public/images/user/*
+
+# Visual Studio Code
+.vscode
+
+/src/vendor
